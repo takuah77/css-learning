@@ -1,0 +1,58 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#helvetica {
+    font-family: Helvetica, sans-serif;
+}
+
+#arial {
+    font-family: Arial, sans-serif;
+}
+
+#serif {
+    font-family: serif;
+}
+
+#sans-serif {
+    font-family: sans-serif;
+}
+
+#cursive {
+    font-family: cursive;
+}
+
+#monospace {
+    font-family: monospace;
+}
+
+#fantasy {
+    font-family: fantasy;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    ;
+}
+
+#color {
+    color: coral;
+}
+#font-size{
+    font-size: 2rem;
+}
+#font-weight{
+    font-weight: 900;
+}
+#font-family{
+    font-family: 'Caveat', cursive;
+}
+#text-align{
+    text-align: right;
+}
+html{
+    font-size: 30px;
+}
