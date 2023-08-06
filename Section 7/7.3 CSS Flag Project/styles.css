@@ -5,7 +5,7 @@ body>div{
     background-color: #ce1126;
     height: 600px;
     width: 900px;
-    position: absolute;
+    position: relative;
 }
 
 body>div>p {
@@ -13,11 +13,13 @@ body>div>p {
     color: white;
     position: absolute;
     margin: auto;
-
     left: 25%;
     right: 25%;
     text-align: center; 
 } 
+p{
+    margin: 0;
+}
 
 .flag>div {
     background-color: #002868;
@@ -46,6 +48,7 @@ body>div>p {
     position: absolute;
     margin: auto;
     top: 25%;
+    text-align: center;
 
 
 
