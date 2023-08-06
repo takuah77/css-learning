@@ -1,0 +1,53 @@
+body>div{
+    position: relative;
+}
+.flag {
+    background-color: #ce1126;
+    height: 600px;
+    width: 900px;
+    position: absolute;
+}
+
+body>div>p {
+    font-size: 64px;
+    color: white;
+    position: absolute;
+    margin: auto;
+
+    left: 25%;
+    right: 25%;
+    text-align: center; 
+} 
+
+.flag>div {
+    background-color: #002868;
+    width: 900px;
+    height: 300px;
+    position: absolute;
+    top: 25%;
+}
+
+
+.flag>div>div {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position: absolute;
+    margin: auto;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.flag>div>div>p {
+    font-size: 64px;
+    position: absolute;
+    margin: auto;
+    top: 25%;
+
+
+
+}
+
